@@ -7,9 +7,10 @@
 
 ## Использование
 
-* ***<python3 gitlab.py [method_name] [entities_type] *file* >**
+* <python3 gitlab.py [method_name] [entities_type] *file* >
 
-Например:
+***Например:***
 
-*  ***<python3 gitlab.py get projects myfile >*** создаст файл myfile.json со списком проектов пользователя.
+* <python3 gitlab.py get projects myfile>
+  создаст файл myfile.json со списком проектов пользователя.
 
