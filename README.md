@@ -12,5 +12,5 @@
 ***Например:***
 
 * python3 gitlab.py get projects --file myfile
-  создаст файл myfile.json
+
 
