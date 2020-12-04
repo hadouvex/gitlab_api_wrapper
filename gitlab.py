@@ -6,9 +6,6 @@ import string
 
 TOKEN = os.environ.get('TOKEN')
 
-projects = {}
-namespaces = {}
-
 N_PER_PAGE = 100
 
 ### ИСПОЛЬЗОВАНИЕ ###
