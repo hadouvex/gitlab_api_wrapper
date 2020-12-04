@@ -12,5 +12,5 @@
 ***Например:***
 
 * python3 gitlab.py get projects myfile
-  создаст файл myfile.json со списком проектов пользователя.
+  создаст файл myfile.json
 
