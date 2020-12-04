@@ -13,7 +13,7 @@ N_PER_PAGE = 100
 
 ### ИСПОЛЬЗОВАНИЕ ###
 
-# python3 gitlab.py [method_name] [entities_type] *file*
+# python3 gitlab.py [method_name] [entities_type] *--file*
 # Например:
 # python3 gitlab.py get projects myjsonfile
 # Будет создан файл myjsonfile.json с сущностями в формате:
